@@ -4,7 +4,9 @@ Convert csv to geojson
 
 ## Installation
 
+```bash
 pip install csv2geojson
+```
 
 ### Development
 
